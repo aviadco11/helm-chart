@@ -30,6 +30,6 @@ entries:
     - https://github.com/bitnami/bitnami-docker-elasticsearch
     - https://www.elastic.co/products/elasticsearch
     urls:
-    - https://aviadco11.github.io/helm-chart/elasticsearch-17.0.2.tgz
+    - https://aviadco11.github.io/helm-chart/helm-chart-sources/elasticsearch-17.0.2.tgz
     version: 17.0.2
 generated: "2021-09-11T19:28:11.378734465Z"
